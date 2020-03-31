@@ -1,7 +1,9 @@
 # PJ61403 DATA
-This dataset is for science project, I collected the data from DermWeb [links: http://www.dermweb.com/]. DermWeb is a collection of websites about skin diseases.
+This dataset is for science project, I collected the data from [DermWeb](http://www.dermweb.com/) and 2 hospitals which are
+ 1. Thammasat University Hospital
+ 2. Rajavithi Hospital
 
-You can clone this dataset in jupyter notebook by `!git clone https://github.com/filmerxyz/SKIN_DATA`
+## About this dataset
 
 In this dataset, there are 2 main types.
 
@@ -17,3 +19,8 @@ These classes no need to consult a doctor.
 * PsoriasisVulgaris
 * SeborrhoeicKeratosis
 * Vitiligo
+
+## How to use
+You can clone this dataset in jupyter notebook by `!git clone https://github.com/filmerxyz/SKIN_DATA`
+
+
