@@ -3,8 +3,11 @@ This dataset is for science project, I collected the data from DermWeb [links: h
 
 
 Atopic Dermatitis and Other Skin Diseases Data
+
+
 **Non-dangerous skin disease**
 * Atopic Dermatitis
 
 **Dangerous skin disease**
+
 * Vitiligo
