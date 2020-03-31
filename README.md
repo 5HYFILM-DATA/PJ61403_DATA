@@ -21,6 +21,10 @@ These classes no need to consult a doctor.
 * Vitiligo
 
 ## How to use
-You can clone this dataset in jupyter notebook by `!git clone https://github.com/filmerxyz/SKIN_DATA`
+* Clone this [respository](https://github.com/filmerxyz/SKIN_DATA`)
+
+* Terminal: `git clone https://github.com/filmerxyz/SKIN_DATA`
+
+* Jupyter Notebook: `!git clone https://github.com/filmerxyz/SKIN_DATA`
 
 
