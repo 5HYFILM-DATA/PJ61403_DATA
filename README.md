@@ -20,7 +20,7 @@ These classes no need to consult a doctor.
 * SeborrhoeicKeratosis
 * Vitiligo
 
-## How to use
+## Usage
 * Clone this [respository](https://github.com/filmerxyz/SKIN_DATA`)
 
 * Terminal: `git clone https://github.com/filmerxyz/SKIN_DATA`
