@@ -10,15 +10,16 @@ In this dataset, there are 2 main types.
 **Non-dangerous skin disease**
 
 These classes no need to consult a doctor.
-- Atopic Dermatitis
+- Normal [nm]
+- Atopic Dermatitis [ad]
 
 **Dangerous skin disease**
 
 These classes no need to consult a doctor.
 
-* PsoriasisVulgaris
-* SeborrhoeicKeratosis
-* Vitiligo
+* PsoriasisVulgaris [pv]
+* SeborrhoeicKeratosis [sk]
+* Vitiligo [vt]
 
 ## Usage
 * Clone this [respository](https://github.com/filmerxyz/SKIN_DATA`)
