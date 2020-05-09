@@ -1,5 +1,5 @@
 # PJ61403 DATA
-This dataset is for science project, I collected the data from [DermWeb](http://www.dermweb.com/) and 2 hospitals which are
+This dataset is for science project, I collected the data from in the internet and 2 hospitals which are
  1. Thammasat University Hospital
  2. Rajavithi Hospital
 
@@ -19,7 +19,6 @@ These classes no need to consult a doctor.
 
 * PsoriasisVulgaris [pv]
 * SeborrhoeicKeratosis [sk]
-* Vitiligo [vt]
 
 ## Usage
 * Clone this [respository](https://github.com/filmerxyz/SKIN_DATA`)
