@@ -1,18 +1,18 @@
 {
     "0" : [
+        "Normal",
+        "nm"
+    ],
+    "1" : [
         "Atopic Dermatitis",
         "ad"
     ],
-    "1" : [
-        "Psoriasis Vulgaris",
-        "pv"
-    ],
     "2" : [
-        "Seborrhoeic Keratosis",
-        "sk"
+        "Psoriasis",
+        "ps"
     ],
     "3" : [
-        "Vitiligo",
-        "vt"
+        "Seborrhoeic Keratosis",
+        "sk"
     ]
 }
