@@ -1,11 +1,11 @@
 {
     "0" : [
-        "Normal",
-        "nm"
-    ],
-    "1" : [
         "Atopic Dermatitis",
         "ad"
+    ],
+    "1" : [
+        "Normal",
+        "nm"
     ],
     "2" : [
         "Psoriasis",
