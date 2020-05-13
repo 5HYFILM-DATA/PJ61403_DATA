@@ -10,8 +10,10 @@ In this dataset, there are 2 main types.
 **Non-dangerous skin disease**
 
 These classes no need to consult a doctor.
-- Normal [nm]
 - Atopic Dermatitis [ad]
+
+- Normal [nm]
+
 
 **Dangerous skin disease**
 
