@@ -20,7 +20,7 @@ These classes no need to consult a doctor.
 These classes no need to consult a doctor.
 
 * Psoriasis [ps]
-* SeborrhoeicKeratosis [sk]
+* Seborrhoeic Keratosis [sk]
 
 ## Usage
 * Clone this [respository](https://github.com/filmerxyz/SKIN_DATA`)
