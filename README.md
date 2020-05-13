@@ -19,7 +19,7 @@ These classes no need to consult a doctor.
 
 These classes no need to consult a doctor.
 
-* PsoriasisVulgaris [pv]
+* Psoriasis [ps]
 * SeborrhoeicKeratosis [sk]
 
 ## Usage
