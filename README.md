@@ -1,7 +1,8 @@
 # PJ61403 DATA
 This dataset is for science project, I collected the data from in the internet and 2 hospitals which are
- 1. Thammasat University Hospital
- 2. Rajavithi Hospital
+ 1. Internet
+ 2. Thammasat University Hospital
+ 3. Rajavithi Hospital
 
 ## About this dataset
 
