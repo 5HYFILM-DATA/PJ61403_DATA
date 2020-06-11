@@ -23,10 +23,10 @@ These classes no need to consult a doctor.
 * Seborrhoeic Keratosis [sk]
 
 ## Usage
-* Clone this [respository](https://github.com/filmerxyz/PJ61403_DATA`)
+* Clone this [respository](https://github.com/EvilPickle-PCSHSPT/PJ61403_DATA`)
 
-* Terminal: `git clone https://github.com/filmerxyz/PJ61403_DATA`
+* Terminal: `git clone https://github.com/EvilPickle-PCSHSPT/PJ61403_DATA`
 
-* Jupyter Notebook: `!git clone https://github.com/filmerxyz/PJ61403_DATA`
+* Jupyter Notebook: `!https://github.com/EvilPickle-PCSHSPT/PJ61403_DATA`
 
 
